@@ -1,5 +1,10 @@
 eclipse.preferences.version=1
+encoding//src/collections/Mapdemo.java=UTF-8
 encoding//src/com/defaults/methods/IMerhaba.java=UTF-8
 encoding//src/com/practices/lambda/Lambda.java=UTF-8
 encoding//src/com/practices/methosRef/MethodRef.java=UTF-8
 encoding//src/com/practices/optional/OptionalTest.java=UTF-8
+encoding//src/graph/Graph.java=UTF-8
+encoding//src/memory_gc/GCNesnesi.java=UTF-8
+encoding//src/quickSort/MainTest.java=UTF-8
+encoding//src/thread_runnable/ThreadSample.java=UTF-8
